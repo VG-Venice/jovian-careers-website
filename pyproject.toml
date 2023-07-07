@@ -8,6 +8,8 @@ authors = ["aakashns <<>>"]
 python = "^3.8"
 Flask = "^2.1.2"
 SQLAlchemy = "^2.0.18"
+Flask-SQLAlchemy = "^3.0.5"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
